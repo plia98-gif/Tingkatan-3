@@ -1,0 +1,6 @@
+{
+  "name": "Modul Anti-Buli Tingkatan 3 — Bijak Tangani Tekanan & Emosi",
+  "description": "Modul Interaktif Anti-Buli dan Pengurusan Tekanan & Emosi Tingkatan 3 KPM bagi membantu murid mengurus emosi, menangani tekanan, dan menentang pembulian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
